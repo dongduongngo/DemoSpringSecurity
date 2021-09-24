@@ -1,0 +1,13 @@
+package com.example.demosecu;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DemoSecuApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(DemoSecuApplication.class, args);
+    }
+
+}
